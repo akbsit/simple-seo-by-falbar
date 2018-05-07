@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple SEO by falbar 1\n"
+"POT-Creation-Date: 2016-06-04 23:22+0300\n"
+"PO-Revision-Date: 2016-06-04 23:22+0300\n"
+"Language-Team: Anton Kuleshov\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"Last-Translator: \n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: class-falbar-ssbf.php\n"
+
+#: class-falbar-ssbf.php:155
+msgid "Settings"
+msgstr "Настройки"
+
+#: class-falbar-ssbf.php:181
+msgid "Home page"
+msgstr "Домашная страница"
+
+#: class-falbar-ssbf.php:230
+msgid "404 page"
+msgstr "Страница ошибки"
+
+#: class-falbar-ssbf.php:335 class-falbar-ssbf.php:582
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: class-falbar-ssbf.php:375
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: class-falbar-ssbf.php:380
+msgid "Dismiss this notice."
+msgstr "Скрыть это уведомление."
