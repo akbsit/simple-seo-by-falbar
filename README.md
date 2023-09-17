@@ -1,10 +1,10 @@
 # [simple-seo-by-falbar](https://wordpress.org/plugins/simple-seo-by-falbar/)
 
-Simple SEO by falbar добавляет основные метаданные (title, description, keywords) на все страницы сайта.
+Simple SEO by falbar adds basic metadata (title, description, keywords) to all pages of the site.
 
-* [Simple SEO Woo by falbar](https://wordpress.org/plugins/simple-seo-woo-by-falbar/) - плагин для WooCommerce.
+* [Simple SEO Woo by falbar](https://wordpress.org/plugins/simple-seo-woo-by-falbar/) - plugin for WooCommerce.
 
-## Скрины
+## Screenshots
 
 ![screenshot-1](https://ps.w.org/simple-seo-by-falbar/assets/screenshot-1.jpg)
 
@@ -15,7 +15,3 @@ Simple SEO by falbar добавляет основные метаданные (t
 ![screenshot-4](https://ps.w.org/simple-seo-by-falbar/assets/screenshot-4.jpg)
 
 ![screenshot-5](https://ps.w.org/simple-seo-by-falbar/assets/screenshot-5.jpg)
-
-# Статья
-
-[Simple SEO for WordPress](http://falbar.ru/article/simple-seo-for-wordpress)
